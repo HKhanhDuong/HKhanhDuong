@@ -17,95 +17,98 @@ I am a software developer
 
 ### 🌐 Programming Languages
 <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px 15px; display: flex; align-items: center; gap: 10px;">
-    <img src="https://img.shields.io/badge/-C++-lightgrey?logo=c%2B%2B&logoColor=00599C&style=for-the-badge" alt="C++">
-    <span>C++</span>
+  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40px" height="40px">
   </div>
-  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px 15px; display: flex; align-items: center; gap: 10px;">
-    <img src="https://img.shields.io/badge/-Java-lightgrey?logo=java&logoColor=ED8B00&style=for-the-badge" alt="Java">
-    <span>Java</span>
+  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40px" height="40px">
   </div>
-  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px 15px; display: flex; align-items: center; gap: 10px;">
-    <img src="https://img.shields.io/badge/-Python-lightgrey?logo=python&logoColor=3776AB&style=for-the-badge" alt="Python">
-    <span>Python</span>
+  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40px" height="40px">
   </div>
-  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px 15px; display: flex; align-items: center; gap: 10px;">
-    <img src="https://img.shields.io/badge/-JavaScript-lightgrey?logo=javascript&logoColor=F7DF1E&style=for-the-badge" alt="JavaScript">
-    <span>JavaScript</span>
+  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40px" height="40px">
   </div>
-  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px 15px; display: flex; align-items: center; gap: 10px;">
-    <img src="https://img.shields.io/badge/-PHP-lightgrey?logo=php&logoColor=777BB4&style=for-the-badge" alt="PHP">
-    <span>PHP</span>
+  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40px" height="40px">
   </div>
 </div>
 
 ### 🌐 Front-End
 <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px 15px; display: flex; align-items: center; gap: 10px;">
-    <img src="https://img.shields.io/badge/-HTML5-lightgrey?logo=html5&logoColor=E34F26&style=for-the-badge" alt="HTML5">
-    <span>HTML5</span>
+  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40px" height="40px">
   </div>
-  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px 15px; display: flex; align-items: center; gap: 10px;">
-    <img src="https://img.shields.io/badge/-CSS3-lightgrey?logo=css3&logoColor=1572B6&style=for-the-badge" alt="CSS3">
-    <span>CSS3</span>
+  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40px" height="40px">
   </div>
-  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px 15px; display: flex; align-items: center; gap: 10px;">
-    <img src="https://img.shields.io/badge/-React-lightgrey?logo=react&logoColor=61DAFB&style=for-the-badge" alt="React">
-    <span>React</span>
+  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40px" height="40px">
   </div>
-  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px 15px; display: flex; align-items: center; gap: 10px;">
-    <img src="https://img.shields.io/badge/-Next.js-lightgrey?logo=next.js&logoColor=000000&style=for-the-badge" alt="Next.js">
-    <span>Next.js</span>
+  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="40px" height="40px">
   </div>
-  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px 15px; display: flex; align-items: center; gap: 10px;">
-    <img src="https://img.shields.io/badge/-Bootstrap-lightgrey?logo=bootstrap&logoColor=563D7C&style=for-the-badge" alt="Bootstrap">
-    <span>Bootstrap</span>
+  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40px" height="40px">
+  </div>
+  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular.js" width="40px" height="40px">
+  </div>
+  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="40px" height="40px">
+  </div>
+  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Three.js" width="40px" height="40px">
   </div>
 </div>
 
 ### 🛠 Back-End & Tools
 <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px 15px; display: flex; align-items: center; gap: 10px;">
-    <img src="https://img.shields.io/badge/-Node.js-lightgrey?logo=node.js&logoColor=339933&style=for-the-badge" alt="Node.js">
-    <span>Node.js</span>
+  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40px" height="40px">
   </div>
-  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px 15px; display: flex; align-items: center; gap: 10px;">
-    <img src="https://img.shields.io/badge/-Firebase-lightgrey?logo=firebase&logoColor=FFCA28&style=for-the-badge" alt="Firebase">
-    <span>Firebase</span>
+  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40px" height="40px">
   </div>
-  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px 15px; display: flex; align-items: center; gap: 10px;">
-    <img src="https://img.shields.io/badge/-MongoDB-lightgrey?logo=mongodb&logoColor=47A248&style=for-the-badge" alt="MongoDB">
-    <span>MongoDB</span>
+  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40px" height="40px">
   </div>
-  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px 15px; display: flex; align-items: center; gap: 10px;">
-    <img src="https://img.shields.io/badge/-MySQL-lightgrey?logo=mysql&logoColor=4479A1&style=for-the-badge" alt="MySQL">
-    <span>MySQL</span>
+  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40px" height="40px">
   </div>
-  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px 15px; display: flex; align-items: center; gap: 10px;">
-    <img src="https://img.shields.io/badge/-Vercel-lightgrey?logo=vercel&logoColor=000000&style=for-the-badge" alt="Vercel">
-    <span>Vercel</span>
+  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40px" height="40px">
+  </div>
+  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="40px" height="40px">
+  </div>
+  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Netlify" width="40px" height="40px">
+  </div>
+  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="40px" height="40px">
+  </div>
+  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="40px" height="40px">
   </div>
 </div>
 
 ### 🖌 Design & Multimedia
 <div style="display: flex; flex-wrap: wrap; gap: 15px;">
-  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px 15px; display: flex; align-items: center; gap: 10px;">
-    <img src="https://img.shields.io/badge/-Adobe%20Photoshop-lightgrey?logo=adobephotoshop&logoColor=31A8FF&style=for-the-badge" alt="Adobe Photoshop">
-    <span>Adobe Photoshop</span>
+  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Adobe Photoshop" width="40px" height="40px">
   </div>
-  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px 15px; display: flex; align-items: center; gap: 10px;">
-    <img src="https://img.shields.io/badge/-Adobe%20Premiere-lightgrey?logo=adobepremierepro&logoColor=9999FF&style=for-the-badge" alt="Adobe Premiere">
-    <span>Adobe Premiere</span>
+  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="Adobe Premiere Pro" width="40px" height="40px">
   </div>
-  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px 15px; display: flex; align-items: center; gap: 10px;">
-    <img src="https://img.shields.io/badge/-Figma-lightgrey?logo=figma&logoColor=F24E1E&style=for-the-badge" alt="Figma">
-    <span>Figma</span>
+  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40px" height="40px">
   </div>
-  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px 15px; display: flex; align-items: center; gap: 10px;">
-    <img src="https://img.shields.io/badge/-Canva-lightgrey?logo=canva&logoColor=00C4CC&style=for-the-badge" alt="Canva">
-    <span>Canva</span>
+  <div style="background-color: lightgrey; border-radius: 15px; padding: 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="40px" height="40px">
   </div>
 </div>
+
 
 <div align="center">
 
