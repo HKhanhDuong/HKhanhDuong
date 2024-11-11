@@ -13,50 +13,50 @@ I am a software developer
 
 
 
-
 ## 💻 Tech Stack:
 
 ### 🌐 Programming Languages
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50px" height="50px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50px" height="50px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50px" height="50px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50px" height="50px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50px" height="50px">
+  ![C++](https://img.shields.io/badge/-C%2B%2B-lightgrey?style=for-the-badge&logo=cplusplus&logoColor=00599C)
+  ![Java](https://img.shields.io/badge/-Java-lightgrey?style=for-the-badge&logo=java&logoColor=ED8B00)
+  ![Python](https://img.shields.io/badge/-Python-lightgrey?style=for-the-badge&logo=python&logoColor=3776AB)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-lightgrey?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+  ![PHP](https://img.shields.io/badge/-PHP-lightgrey?style=for-the-badge&logo=php&logoColor=777BB4)
 </div>
 
 ### 🌐 Front-End
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50px" height="50px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50px" height="50px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50px" height="50px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="50px" height="50px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50px" height="50px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular.js" width="50px" height="50px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="50px" height="50px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Three.js" width="50px" height="50px">
+  ![HTML5](https://img.shields.io/badge/-HTML5-lightgrey?style=for-the-badge&logo=html5&logoColor=E34F26)
+  ![CSS3](https://img.shields.io/badge/-CSS3-lightgrey?style=for-the-badge&logo=css3&logoColor=1572B6)
+  ![React](https://img.shields.io/badge/-React-lightgrey?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![Next.js](https://img.shields.io/badge/-Next.js-lightgrey?style=for-the-badge&logo=next.js&logoColor=000000)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-lightgrey?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
+  ![Angular.js](https://img.shields.io/badge/-Angular.js-lightgrey?style=for-the-badge&logo=angular&logoColor=E23237)
+  ![Redux](https://img.shields.io/badge/-Redux-lightgrey?style=for-the-badge&logo=redux&logoColor=764ABC)
+  ![Three.js](https://img.shields.io/badge/-Three.js-lightgrey?style=for-the-badge&logo=three.js&logoColor=000000)
 </div>
 
 ### 🛠 Back-End & Tools
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50px" height="50px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50px" height="50px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50px" height="50px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50px" height="50px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="50px" height="50px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="50px" height="50px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Netlify" width="50px" height="50px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="50px" height="50px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="50px" height="50px">
+  ![Node.js](https://img.shields.io/badge/-Node.js-lightgrey?style=for-the-badge&logo=node.js&logoColor=339933)
+  ![Firebase](https://img.shields.io/badge/-Firebase-lightgrey?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-lightgrey?style=for-the-badge&logo=mongodb&logoColor=47A248)
+  ![MySQL](https://img.shields.io/badge/-MySQL-lightgrey?style=for-the-badge&logo=mysql&logoColor=4479A1)
+  ![Oracle](https://img.shields.io/badge/-Oracle-lightgrey?style=for-the-badge&logo=oracle&logoColor=F80000)
+  ![Vercel](https://img.shields.io/badge/-Vercel-lightgrey?style=for-the-badge&logo=vercel&logoColor=000000)
+  ![Netlify](https://img.shields.io/badge/-Netlify-lightgrey?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+  ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-lightgrey?style=for-the-badge&logo=google-cloud&logoColor=4285F4)
+  ![Cloudflare](https://img.shields.io/badge/-Cloudflare-lightgrey?style=for-the-badge&logo=cloudflare&logoColor=F38020)
 </div>
 
 ### 🖌 Design & Multimedia
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Adobe Photoshop" width="50px" height="50px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="Adobe Premiere Pro" width="50px" height="50px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50px" height="50px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="50px" height="50px">
+  ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-lightgrey?style=for-the-badge&logo=adobephotoshop&logoColor=31A8FF)
+  ![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere-lightgrey?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF)
+  ![Figma](https://img.shields.io/badge/-Figma-lightgrey?style=for-the-badge&logo=figma&logoColor=F24E1E)
+  ![Canva](https://img.shields.io/badge/-Canva-lightgrey?style=for-the-badge&logo=canva&logoColor=00C4CC)
 </div>
+
 
 <div align="center">
 
