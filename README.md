@@ -82,7 +82,7 @@ I am a software developer
     <!-- Right Column: Random Meme -->
     <td style="width:60%; vertical-align:top; text-align:center; padding:0; margin:0;">
       <div style="background-color:#1e1e2e; border-radius:10px; padding:10px; margin:0;">
-        <img src="https://via.placeholder.com/600x400" alt="Random Meme" style="width:100%; height:auto; border-radius:10px;"/>
+        <img src="https://file.hstatic.net/200000934893/file/1e97a24e-1adc-11e8-9758-2e995a9a3302.gif" alt="Random Meme" style="width:100%; height:auto; border-radius:10px;"/>
       </div>
     </td>
   </tr>
