@@ -67,10 +67,10 @@ I am a software developer
 
 ## 📊 GitHub Stats & Random Meme
 
-<table style="width:100%; table-layout:fixed; border-spacing:10px;">
+<table style="width:100%; table-layout:fixed; border-spacing:0; margin:0;">
   <tr>
     <!-- Left Column: Most Used Languages and GitHub Stats -->
-    <td style="width:40%; vertical-align:top; text-align:center; padding:0;">
+    <td style="width:40%; vertical-align:top; text-align:center; padding:0; margin:0;">
       <div style="background-color:#1e1e2e; border-radius:10px; padding:15px; margin-bottom:10px;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HKhanhDuong&theme=radical&hide_border=true&layout=compact" 
         alt="Most Used Languages" style="width:80%; height:auto; border-radius:10px;"/>
