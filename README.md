@@ -69,6 +69,7 @@ I am a software developer!!!
   </tr>
 </table>
 </div>
+
 ### ✍️ GOOD QUOTES FROM OTHER PROGRAMMERS
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
