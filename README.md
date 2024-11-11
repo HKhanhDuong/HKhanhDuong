@@ -10,11 +10,7 @@ I am a software developer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/huu-khanh-duong-41284925a) 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@jkhanhdev.nopro) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@yardermusic5924)
-
----
-
 ## 💻 Tech Stack:
-
 ### 🌐 Programming Languages
 <div>
   <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&color=lightgrey" alt="C++">
@@ -23,9 +19,6 @@ I am a software developer
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&color=lightgrey" alt="JavaScript">
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&color=lightgrey" alt="PHP">
 </div>
-
----
-
 ### 🌐 Front-End
 <div>
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&color=lightgrey" alt="HTML5">
@@ -37,9 +30,6 @@ I am a software developer
   <img src="https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&color=lightgrey" alt="Redux">
   <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&color=lightgrey" alt="Three.js">
 </div>
-
----
-
 ### 🛠 Back-End & Tools
 <div>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&color=lightgrey" alt="Node.js">
@@ -52,9 +42,6 @@ I am a software developer
   <img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&color=lightgrey" alt="Google Cloud">
   <img src="https://img.shields.io/badge/Cloudflare-F38020.svg?style=for-the-badge&logo=cloudflare&color=lightgrey" alt="Cloudflare">
 </div>
-
----
-
 ### 🖌 Design & Multimedia
 <div>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&color=lightgrey" alt="Adobe Photoshop">
@@ -62,13 +49,8 @@ I am a software developer
   <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&color=lightgrey" alt="Figma">
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&color=lightgrey" alt="Canva">
 </div>
-
----
-
 <div align="center">
-
 ## 📊 GitHub Stats & Random Meme
-
 <table style="width:100%; table-layout:fixed; border-spacing:0; margin:0; padding:0;">
   <tr>
     <!-- Left Column: Most Used Languages and GitHub Stats -->
@@ -90,12 +72,8 @@ I am a software developer
     </td>
   </tr>
 </table>
-
----
-
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 [![](https://visitcount.itsvg.in/api?id=HKhanhDuong&icon=0&color=6)](https://visitcount.itsvg.in)
-
 </div>
