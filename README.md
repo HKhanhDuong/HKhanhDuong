@@ -3,7 +3,7 @@
 # Hi 👋, I'm Khanh  
 I am a software developer!!!
 
-## 🌐 Connect with me:
+## 🌐 Where to find me?
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/www.facebook.com) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jkhanhdev.0pro/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/huu-khanh-duong-41284925a) 
