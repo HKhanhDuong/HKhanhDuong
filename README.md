@@ -67,22 +67,23 @@ I am a software developer
 
 ## 📊 GitHub Stats & Random Meme
 
+
 <table style="width:100%; table-layout:fixed; border-spacing:0; margin:0; padding:0;">
   <tr>
     <!-- Left Column: Most Used Languages and GitHub Stats -->
     <td style="width:40%; vertical-align:top; text-align:center; padding:0; margin:0;">
-      <div style="background-color:#1e1e2e; border-radius:10px; padding:15px; margin-bottom:10px; margin-left:0;">
+      <div style="background-color:#1e1e2e; border-radius:10px; padding:10px; margin:0;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HKhanhDuong&theme=radical&hide_border=true&layout=compact" 
-        alt="Most Used Languages" style="width:80%; height:auto; border-radius:10px;"/>
+        alt="Most Used Languages" style="width:90%; height:auto; border-radius:10px;"/>
       </div>
-      <div style="background-color:#1e1e2e; border-radius:10px; padding:15px; margin-left:0;">
+      <div style="background-color:#1e1e2e; border-radius:10px; padding:10px; margin:10px 0 0 0;">
         <img src="https://github-readme-stats.vercel.app/api?username=HKhanhDuong&theme=radical&hide_border=true&include_all_commits=true&count_private=true" 
-        alt="GitHub Stats" style="width:80%; height:auto; border-radius:10px;"/>
+        alt="GitHub Stats" style="width:90%; height:auto; border-radius:10px;"/>
       </div>
     </td>
     <!-- Right Column: Random Meme -->
-    <td style="width:60%; vertical-align:top; text-align:center; padding:0;">
-      <div style="background-color:#1e1e2e; border-radius:10px; padding:15px;">
+    <td style="width:60%; vertical-align:top; text-align:center; padding:0; margin:0;">
+      <div style="background-color:#1e1e2e; border-radius:10px; padding:10px; margin:0;">
         <img src="https://via.placeholder.com/600x400" alt="Random Meme" style="width:100%; height:auto; border-radius:10px;"/>
       </div>
     </td>
