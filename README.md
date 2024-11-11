@@ -69,22 +69,23 @@ I am a software developer
 
 <table style="width:100%; table-layout:fixed; border-spacing:15px;">
   <tr>
-    <!-- Left Column: GitHub Stats -->
+    <!-- Left Column: Most Used Languages and GitHub Stats -->
     <td style="width:40%; vertical-align:top; padding:10px;">
-      <div style="background-color:#1e1e2e; border-radius:10px; padding:15px;">
-        <h3 style="color:#ff79c6; font-size:16px;">Dương Hữu Khánh's GitHub Stats</h3>
-        <!-- GitHub Stats -->
-        <img src="https://github-readme-stats.vercel.app/api?username=HKhanhDuong&theme=radical&hide_border=true&include_all_commits=true&count_private=true" 
-        alt="GitHub Stats" style="width:90%; height:auto; border-radius:10px;"/>
-        <!-- Most Used Languages -->
+      <div style="background-color:#1e1e2e; border-radius:10px; padding:15px; margin-bottom:10px;">
+        <h3 style="color:#82aaff; font-size:16px;">Most Used Languages</h3>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HKhanhDuong&theme=radical&hide_border=true&layout=compact" 
-        alt="Most Used Languages" style="width:90%; height:auto; margin-top:10px; border-radius:10px;"/>
+        alt="Most Used Languages" style="width:100%; height:auto; border-radius:10px;"/>
+      </div>
+      <div style="background-color:#1e1e2e; border-radius:10px; padding:15px;">
+        <h3 style="color:#82aaff; font-size:16px;">GitHub Stats</h3>
+        <img src="https://github-readme-stats.vercel.app/api?username=HKhanhDuong&theme=radical&hide_border=true&include_all_commits=true&count_private=true" 
+        alt="GitHub Stats" style="width:100%; height:auto; border-radius:10px;"/>
       </div>
     </td>
     <!-- Right Column: Random Meme -->
     <td style="width:60%; vertical-align:top; padding:10px;">
       <div style="background-color:#1e1e2e; border-radius:10px; padding:15px;">
-        <h3 style="color:#ff79c6; font-size:16px;">Random Meme</h3>
+        <h3 style="color:#82aaff; font-size:16px;">Random Meme</h3>
         <img src="https://random-memer.herokuapp.com/" alt="Random Meme" style="width:100%; height:auto; border-radius:10px;"/>
       </div>
     </td>
