@@ -33,9 +33,7 @@ I am a software developer!!!
 ![Firebase](https://img.shields.io/badge/Firebase-2C2F33?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 ![MongoDB](https://img.shields.io/badge/MongoDB-2C2F33?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![MySQL](https://img.shields.io/badge/MySQL-2C2F33?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Oracle](https://img.shields.io/badge/Oracle-2C2F33?style=for-the-badge&logo=oracle&logoColor=F80000)
 ![Vercel](https://img.shields.io/badge/Vercel-2C2F33?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
-![Netlify](https://img.shields.io/badge/Netlify-2C2F33?style=for-the-badge&logo=netlify&logoColor=00C7B7)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-2C2F33?style=for-the-badge&logo=google-cloud&logoColor=4285F4)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-2C2F33?style=for-the-badge&logo=cloudflare&logoColor=F38020)
 
