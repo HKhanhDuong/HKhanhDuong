@@ -69,7 +69,7 @@ I am a software developer
   <tr>
     <!-- Left Column: GitHub Stats -->
     <td style="width:40%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=HKhanhDuong&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=HKhanhDuong&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /> <br/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HKhanhDuong&theme=radical&hide_border=false&layout=compact" alt="Most Used Languages" />
     </td>
     <!-- Right Column: Random Meme -->
