@@ -67,22 +67,20 @@ I am a software developer
 
 ## 📊 GitHub Stats & Random Meme
 
-<table style="width:100%; table-layout:fixed; border-spacing:15px;">
+<table style="width:100%; table-layout:fixed; border-spacing:20px;">
   <tr>
     <!-- Left Column: Most Used Languages and GitHub Stats -->
     <td style="width:40%; padding:10px; vertical-align:top;">
-      <div style="background-color:#1e1e2e; border-radius:10px; padding:15px; display:flex; flex-direction:column; align-items:center; justify-content:center;">
+      <div style="background-color:#1e1e2e; border-radius:10px; padding:20px; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:20px;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HKhanhDuong&theme=radical&hide_border=true&layout=compact" 
-        alt="Most Used Languages" style="width:80%; height:auto; border-radius:10px;"/>
-      </div>
-      <div style="background-color:#1e1e2e; border-radius:10px; padding:15px; margin-top:10px; display:flex; flex-direction:column; align-items:center; justify-content:center;">
+        alt="Most Used Languages" style="width:90%; height:auto; border-radius:10px; margin-bottom:15px;"/>
         <img src="https://github-readme-stats.vercel.app/api?username=HKhanhDuong&theme=radical&hide_border=true&include_all_commits=true&count_private=true" 
-        alt="GitHub Stats" style="width:80%; height:auto; border-radius:10px;"/>
+        alt="GitHub Stats" style="width:90%; height:auto; border-radius:10px;"/>
       </div>
     </td>
     <!-- Right Column: Random Meme -->
     <td style="width:60%; padding:10px; vertical-align:top;">
-      <div style="background-color:#1e1e2e; border-radius:10px; padding:15px; display:flex; align-items:center; justify-content:center;">
+      <div style="background-color:#1e1e2e; border-radius:10px; padding:20px; display:flex; align-items:center; justify-content:center;">
         <img src="https://via.placeholder.com/600x400" alt="Random Meme" style="width:100%; height:auto; border-radius:10px;"/>
       </div>
     </td>
