@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm Khanh  
-I'm a passionate **Software Developer** who loves building solutions and exploring new technologies.
+I am a software developer
 
 
 ## 🌐 Connect with me:
