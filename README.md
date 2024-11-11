@@ -13,73 +13,50 @@ I am a software developer
 
 
 
+
 ## 💻 Tech Stack:
 
 ### 🌐 Programming Languages
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <div style="background-color: lightgrey; border-radius: 10px; padding: 5px 15px; display: flex; align-items: center; justify-content: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="30px" height="30px">
-  </div>
-  <div style="background-color: lightgrey; border-radius: 10px; padding: 5px 15px; display: flex; align-items: center; justify-content: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="30px" height="30px">
-  </div>
-  <div style="background-color: lightgrey; border-radius: 10px; padding: 5px 15px; display: flex; align-items: center; justify-content: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30px" height="30px">
-  </div>
-  <div style="background-color: lightgrey; border-radius: 10px; padding: 5px 15px; display: flex; align-items: center; justify-content: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="30px" height="30px">
-  </div>
-  <div style="background-color: lightgrey; border-radius: 10px; padding: 5px 15px; display: flex; align-items: center; justify-content: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="30px" height="30px">
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50px" height="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50px" height="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50px" height="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50px" height="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50px" height="50px">
 </div>
 
 ### 🌐 Front-End
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <div style="background-color: lightgrey; border-radius: 10px; padding: 5px 15px; display: flex; align-items: center; justify-content: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="30px" height="30px">
-  </div>
-  <div style="background-color: lightgrey; border-radius: 10px; padding: 5px 15px; display: flex; align-items: center; justify-content: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="30px" height="30px">
-  </div>
-  <div style="background-color: lightgrey; border-radius: 10px; padding: 5px 15px; display: flex; align-items: center; justify-content: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="30px" height="30px">
-  </div>
-  <div style="background-color: lightgrey; border-radius: 10px; padding: 5px 15px; display: flex; align-items: center; justify-content: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="30px" height="30px">
-  </div>
-  <div style="background-color: lightgrey; border-radius: 10px; padding: 5px 15px; display: flex; align-items: center; justify-content: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="30px" height="30px">
-  </div>
-  <div style="background-color: lightgrey; border-radius: 10px; padding: 5px 15px; display: flex; align-items: center; justify-content: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular.js" width="30px" height="30px">
-  </div>
-  <div style="background-color: lightgrey; border-radius: 10px; padding: 5px 15px; display: flex; align-items: center; justify-content: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="30px" height="30px">
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50px" height="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50px" height="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50px" height="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" alt="Next.js" width="50px" height="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50px" height="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular.js" width="50px" height="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" alt="Redux" width="50px" height="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" alt="Three.js" width="50px" height="50px">
 </div>
 
 ### 🛠 Back-End & Tools
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <div style="background-color: lightgrey; border-radius: 10px; padding: 5px 15px; display: flex; align-items: center; justify-content: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30px" height="30px">
-  </div>
-  <div style="background-color: lightgrey; border-radius: 10px; padding: 5px 15px; display: flex; align-items: center; justify-content: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="30px" height="30px">
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50px" height="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="50px" height="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50px" height="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50px" height="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="50px" height="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" alt="Vercel" width="50px" height="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" alt="Netlify" width="50px" height="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" width="50px" height="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="50px" height="50px">
 </div>
 
 ### 🖌 Design & Multimedia
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <div style="background-color: lightgrey; border-radius: 10px; padding: 5px 15px; display: flex; align-items: center; justify-content: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Adobe Photoshop" width="30px" height="30px">
-  </div>
-  <div style="background-color: lightgrey; border-radius: 10px; padding: 5px 15px; display: flex; align-items: center; justify-content: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="30px" height="30px">
-  </div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" alt="Adobe Photoshop" width="50px" height="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="Adobe Premiere Pro" width="50px" height="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50px" height="50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" alt="Canva" width="50px" height="50px">
 </div>
-
-
 
 <div align="center">
 
