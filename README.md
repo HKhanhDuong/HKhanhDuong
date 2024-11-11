@@ -65,16 +65,22 @@ I am a software developer
 
 ## 📊 GitHub Stats & Random Meme
 
-<table style="width:100%;">
+<table style="width:100%; table-layout:fixed; border-spacing:15px;">
   <tr>
     <!-- Left Column: GitHub Stats -->
-    <td style="width:40%;">
-      <img src="https://github-readme-stats.vercel.app/api?username=HKhanhDuong&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /> <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HKhanhDuong&theme=radical&hide_border=false&layout=compact" alt="Most Used Languages" />
+    <td style="width:40%; vertical-align:top; padding:10px;">
+      <div style="background-color:#1e1e2e; border-radius:10px; padding:15px;">
+        <h3 style="color:#ff79c6; font-size:16px;">Dương Hữu Khánh's GitHub Stats</h3>
+        <img src="https://github-readme-stats.vercel.app/api?username=HKhanhDuong&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width:100%; border-radius:10px;"/>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HKhanhDuong&theme=radical&hide_border=true&layout=compact" alt="Most Used Languages" style="width:100%; margin-top:10px; border-radius:10px;"/>
+      </div>
     </td>
     <!-- Right Column: Random Meme -->
-    <td style="width:60%;">
-      <img src="https://random-memer.herokuapp.com/" alt="Random Meme" width="100%" />
+    <td style="width:60%; vertical-align:top; padding:10px;">
+      <div style="background-color:#1e1e2e; border-radius:10px; padding:15px;">
+        <h3 style="color:#ff79c6; font-size:16px;">Random Meme</h3>
+        <img src="https://random-memer.herokuapp.com/" alt="Random Meme" style="width:100%; height:auto; border-radius:10px;"/>
+      </div>
     </td>
   </tr>
 </table>
