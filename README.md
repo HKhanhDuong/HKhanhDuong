@@ -70,7 +70,7 @@ I am a software developer
 <table style="width:100%; table-layout:fixed; border-spacing:15px;">
   <tr>
     <!-- Left Column: Most Used Languages and GitHub Stats -->
-    <td style="width:40%; vertical-align:top; padding:10px;">
+    <td style="width:40%; vertical-align:top; padding:10px; text-align:center;">
       <div style="background-color:#1e1e2e; border-radius:10px; padding:15px; margin-bottom:10px;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HKhanhDuong&theme=radical&hide_border=true&layout=compact" 
         alt="Most Used Languages" style="width:80%; height:auto; border-radius:10px;"/>
@@ -81,9 +81,8 @@ I am a software developer
       </div>
     </td>
     <!-- Right Column: Random Meme -->
-    <td style="width:60%; vertical-align:top; padding:10px;">
+    <td style="width:60%; vertical-align:top; padding:10px; text-align:center;">
       <div style="background-color:#1e1e2e; border-radius:10px; padding:15px;">
-        <h3 style="color:#82aaff; font-size:16px;">Random Meme / Image</h3>
         <img src="https://via.placeholder.com/600x400" alt="Random Meme" style="width:100%; height:auto; border-radius:10px;"/>
       </div>
     </td>
