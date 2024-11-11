@@ -3,7 +3,6 @@
 # Hi 👋, I'm Khanh  
 I'm a passionate **Software Developer** who loves building solutions and exploring new technologies.
 
----
 
 ## 🌐 Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/www.facebook.com) 
@@ -12,7 +11,6 @@ I'm a passionate **Software Developer** who loves building solutions and explori
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@jkhanhdev.nopro) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@yardermusic5924)
 
----
 
 ## 💻 Tech Stack:
 
@@ -25,7 +23,7 @@ I'm a passionate **Software Developer** who loves building solutions and explori
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
 </div>
 
----
+
 
 ### 🌐 Front-End
 <div>
@@ -39,7 +37,7 @@ I'm a passionate **Software Developer** who loves building solutions and explori
   <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js">
 </div>
 
----
+
 
 ### 🛠 Back-End & Tools
 <div>
@@ -54,7 +52,6 @@ I'm a passionate **Software Developer** who loves building solutions and explori
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare">
 </div>
 
----
 
 ### 🖌 Design & Multimedia
 <div>
@@ -64,24 +61,17 @@ I'm a passionate **Software Developer** who loves building solutions and explori
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white" alt="Canva">
 </div>
 
----
-
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HKhanhDuong&theme=radical&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=HKhanhDuong&theme=radical&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HKhanhDuong&theme=radical&hide_border=false&layout=compact)  
 
----
 
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
 ### 😂 Random Meme:
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
----
 
 [![](https://visitcount.itsvg.in/api?id=HKhanhDuong&icon=0&color=6)](https://visitcount.itsvg.in)
 
