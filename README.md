@@ -3,7 +3,6 @@
 # Hi 👋, I'm Khanh  
 I am a software developer
 
-
 ## 🌐 Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/www.facebook.com) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jkhanhdev.0pro/) 
@@ -11,9 +10,7 @@ I am a software developer
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@jkhanhdev.nopro) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@yardermusic5924)
 
-
 ## 💻 Tech Stack:
-
 ### 🌐 Programming Languages
 ![C++](https://img.shields.io/badge/C++-2C2F33?style=for-the-badge&logo=cplusplus&logoColor=00599C)
 ![Java](https://img.shields.io/badge/Java-2C2F33?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
@@ -47,12 +44,9 @@ I am a software developer
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere-2C2F33?style=for-the-badge&logo=adobepremierepro&logoColor=9999FF)
 ![Figma](https://img.shields.io/badge/Figma-2C2F33?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Canva](https://img.shields.io/badge/Canva-2C2F33?style=for-the-badge&logo=canva&logoColor=00C4CC)
-
 <div align="center">
-
+  
 ## 📊 GitHub Stats & Random Meme
-
-
 <table style="width:100%; table-layout:fixed; border-spacing:0; margin:0; padding:0;">
   <tr>
     <!-- Left Column: Most Used Languages and GitHub Stats -->
@@ -75,13 +69,8 @@ I am a software developer
   </tr>
 </table>
 </div>
-
-
----
-
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 [![](https://visitcount.itsvg.in/api?id=HKhanhDuong&icon=0&color=6)](https://visitcount.itsvg.in)
-
 </div>
