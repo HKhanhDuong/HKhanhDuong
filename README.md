@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi 👋, I'm Khanh  
 I'm a passionate **Software Developer** who loves building solutions and exploring new technologies.
 
@@ -64,3 +66,5 @@ I'm a passionate **Software Developer** who loves building solutions and explori
 ---
 
 [![](https://visitcount.itsvg.in/api?id=HKhanhDuong&icon=0&color=6)](https://visitcount.itsvg.in)
+
+</div>
