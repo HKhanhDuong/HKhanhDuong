@@ -47,8 +47,6 @@ I am a software developer!!!
 ## 📊 STATUS
 <table style="width:100%; table-layout:fixed; border-spacing:0; margin:0; padding:0;">
   <tr>
-    <!-- Left Column: Most Used Languages and GitHub Stats -->
-   
     <!-- Right Column: Random Meme -->
     <td style="width:100%; vertical-align:top; text-align:center; padding:0; margin:0;">
       <div style="background-color:#1e1e2e; border-radius:10px; padding:10px; margin:0;">
@@ -56,6 +54,8 @@ I am a software developer!!!
       </div>
     </td>
   </tr>
+</table>
+
 </table>
 </div>
 
