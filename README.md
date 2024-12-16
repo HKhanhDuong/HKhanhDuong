@@ -45,7 +45,7 @@ I am a software developer!!!
 <div align="center">
   
 ## 📊 STATUS
-<table style="width:100%; table-layout:fixed; border-spacing:0; margin:0; padding:0;">
+<table style="width:100%; table-layout:fixed; border-spacing:0; margin:0; padding:0; border: none;">
   <tr>
     <!-- Right Column: Random Meme -->
     <td style="width:100%; vertical-align:top; text-align:center; padding:0; margin:0; border: none;">
